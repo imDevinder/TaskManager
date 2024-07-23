@@ -72,5 +72,5 @@ While the current version of the Task Manager web application offers essential f
 ## Conclusion
 The Task Manager web application provides a foundational platform for users to efficiently manage their tasks online. Built using Flask, SQLite, and JavaScript, it demonstrates core concepts of web development including user authentication, database integration, and responsive design. Whether for personal use or team collaboration, this application serves as a practical tool for organizing tasks and enhancing productivity.
 
-For further inquiries or contributions, please contact [Your Name] at [Your Email].
+For further inquiries or contributions, please contact [Devinder] at [iamDevinderSharma15122005@gmail.com].
 
